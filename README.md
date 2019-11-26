@@ -1,4 +1,4 @@
-# monte_carlo_localization
+# Monte Carlo Localization
 
 This is a ROS + Python implementation of Particle Filter Localization on a Turtlebot in Gazebo.
 
